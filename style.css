@@ -7,6 +7,12 @@ body{
 
 margin: 0px;
 padding: 0px;
+background: url(img.jpg); 
+height: 100vh;
+background-repeat: no-repeat;
+
+background-position: bottom center;
+background-position: bottom center;
 
 
 
